@@ -197,12 +197,12 @@ Master one. Dabbling in three engines means you're mediocre at all three.
 
 ## Phase 1 Checklist
 
-- [ ] Watched introductory tutorial for at least 2 engines
-- [ ] Made a decision (and committed to it)
-- [ ] Installed chosen engine
-- [ ] Completed official getting started tutorial
-- [ ] Created a project where a character moves with keyboard input
-- [ ] Confirmed this engine feels right for you
+- [X] Watched introductory tutorial for at least 2 engines
+- [X] Made a decision (and committed to it)
+- [X] Installed chosen engine
+- [X] Completed official getting started tutorial
+- [X] Created a project where a character moves with keyboard input
+- [X] Confirmed this engine feels right for you
 
 ---
 
